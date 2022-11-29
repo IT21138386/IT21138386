@@ -75,7 +75,7 @@
 </br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=it21138386&show_icons=true&locale=en&layout=compact&theme=react" alt="it21138386" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=it21138386&show_icons=true&locale=en&theme=react" alt="it21138386" /></p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sathira-wijeratne&label=Profile%20views&color=0e75b6&style=flat" alt="IT21138386" /> </p>
 <!--
 **IT21138386/IT21138386** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
