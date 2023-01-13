@@ -70,7 +70,7 @@
 <a href="https://img.movavi.com/online-help/video-editor-plus-mac/15/index.htm" target="_blank">
 	<img height="48" src="https://img.movavi.com/online-help/video-editor-plus-mac/15/images/drex_index_custom.png"/></a>
 <a href="https://www.autodesk.com/products/autocad/overview?term=1-YEAR&tab=subscription" target="_blank">
-	<img height="48" src="https://png.pngitem.com/pimgs/s/1-19823_transparent-cad-png-logo-autocad-2018-png-png.png"/></a>
+	<img height="48" src="https://logos-world.net/wp-content/uploads/2020/12/Autocad-Logo.png"/></a>
 </p>
 </br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=it21138386&show_icons=true&locale=en&layout=compact&theme=react" alt="it21138386" /></p>
